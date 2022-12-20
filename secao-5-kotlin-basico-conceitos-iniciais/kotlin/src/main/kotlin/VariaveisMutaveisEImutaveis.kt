@@ -1,9 +1,8 @@
 fun main() {
 
-    var nome = "tony"   // VAR = variável mutável, podendo modificar seu valor.
-    nome = "stark"
+    var nome = "jéssica"    //VAR variável mutável, seu valor pode ser alterado após ser atribuido
+    nome = "joana"
 
-    val sobrenome = "Batista"  //VAL = variável imutável, depois de atribuido um valor não poderá ser modificado.
-    sobrenome = "teixeira"
+    val sobrenome = "Batista"  //VAL variável imutável, seu valor não pode ser alterado depois de atribuido
 
 }
