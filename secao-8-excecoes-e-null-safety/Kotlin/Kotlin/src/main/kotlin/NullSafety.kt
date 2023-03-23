@@ -4,6 +4,6 @@ fun main() {
 
     var s: String? = null
 
-    println(s?.length)  //utilizando o ? trata caso haja uma excessao
+    println(s?.length)  //utilizando o ? trata caso haja uma exceçao
     println(s!!.length)  // utilizamos o !! quando se tem a certeza que a variável assume um valor que não é nulo, se for nulo assume o erro
 }
